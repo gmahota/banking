@@ -13,7 +13,7 @@ const SideBar = ({user}:SiderbarProps) => {
   return (
     <section className='sidebar'>
       <nav className='flex flex-col gap-4'>
-        <Link href="/" className='mb-12 cursor-pointer items-center gap-2'>
+        <Link href="/" className='mb-12 cursor-pointer flex items-center gap-2'>
           <Image 
             src="/icons/logo.svg"
             width={34}
@@ -38,7 +38,11 @@ const SideBar = ({user}:SiderbarProps) => {
             </Link>
           )
         })}
+
+      USER
       </nav>
+      FOOTER
+      
     </section>
   )
 }
