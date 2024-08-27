@@ -1,5 +1,7 @@
 # Banking App
 
+https://www.youtube.com/watch?v=PuOVqP_cjkE&t=8122s
+
 This project is a banking application developed using Next.js 14, based on the tutorial by Adrian Hajdin. The application features a finance management dashboard that connects multiple bank accounts, displays real-time transactions, and allows users to transfer money to other users on the platform.
 
 ## Overview
